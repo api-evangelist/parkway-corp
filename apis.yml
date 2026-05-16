@@ -1,18 +1,30 @@
 aid: parkway-corp
-url: https://raw.githubusercontent.com/api-evangelist/parkway-corp/refs/heads/main/apis.yml
 name: Parkway Corp
-type: Index
+description: >-
+  A Philadelphia-based real estate and parking infrastructure company that
+  develops, owns, and manages parking facilities and mixed-use properties across
+  the greater Philadelphia region. Parkway operates one of the largest privately
+  held portfolios of urban parking and structured real estate assets in the
+  Mid-Atlantic, providing on-street and off-street parking, monthly parking
+  programs, validation services, and selective property development. The company
+  does not publish a public developer API or partner integration portal.
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Real Estate
   - Parking
   - Infrastructure
   - Philadelphia
-description: 'A Philadelphia-based real estate and parking infrastructure company that develops, owns, and manages parking facilities and mixed-use properties across the greater Philadelphia region.'
+  - Mid-Atlantic
+  - Mixed-Use Development
+url: https://raw.githubusercontent.com/api-evangelist/parkway-corp/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-09'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.parkwaycorp.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
