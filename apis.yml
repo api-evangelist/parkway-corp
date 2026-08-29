@@ -9,6 +9,17 @@ description: >-
   programs, validation services, and selective property development. The company
   does not publish a public developer API or partner integration portal.
 kind: company
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
