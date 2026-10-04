@@ -33,7 +33,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/parkway-corp.png
 tags:
-  - Real-Estate
+  - Real Estate
   - Parking
   - Infrastructure
   - Philadelphia
@@ -46,6 +46,7 @@ tags_raw:
   - Philadelphia
   - Mid-Atlantic
   - Mixed-Use Development
+  - Real-Estate
 url: https://raw.githubusercontent.com/api-evangelist/parkway-corp/refs/heads/main/apis.yml
 created: '2026-05-05'
 modified: '2026-05-09'
