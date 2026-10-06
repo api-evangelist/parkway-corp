@@ -49,10 +49,12 @@ tags_raw:
   - Real-Estate
 url: https://raw.githubusercontent.com/api-evangelist/parkway-corp/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-09'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.parkwaycorp.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/parkway-corp-domain-security.yml
   - type: LinkedIn
